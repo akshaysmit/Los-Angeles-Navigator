@@ -8,3 +8,5 @@ The exact command line usage instructions are at the beginning of main.cpp .
 
 AttractionMapper and SegmentMapper both use a binary search tree which has been implemented in MyMap.h . The A* algorithm also uses this binary search tree, along 
 with an STL priority queue.
+
+To see the big-O complexity of various important functions, see report.docx .
